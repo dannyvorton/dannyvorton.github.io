@@ -2,3 +2,13 @@
 body {
     background-color: lightblue;
 }
+
+ul {
+    background-color: white;
+}
+
+/* CREATE HORIZONTAL NAVBAR */
+li {
+    display: inline;
+    float: center;
+}
